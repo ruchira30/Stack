@@ -33,7 +33,9 @@ case 2:
 case 3:
      display(st);
      break;
-}whlie(option!=4);
+     default: printf("\nINVALID CHOICE");
+  }
+}while(option!=4);
 return 0;
 }
 void push(int st[],int val)
