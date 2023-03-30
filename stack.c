@@ -14,7 +14,8 @@ printf("****MAIN MENU****");
 printf("\n1.PUSH");
 printf("\n2.POP");
 printf("\n3.DISPLAY");
-printf("\N4.EXIT");
+printf("\n4.EXIT");
+printf("\nENTER CHOICE:");
 scanf("%d",&option);
 switch(option)
 {
@@ -83,4 +84,3 @@ void display(int st[])
 
       
        
-
