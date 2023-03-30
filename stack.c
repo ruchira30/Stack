@@ -84,3 +84,4 @@ void display(int st[])
 
       
        
+
